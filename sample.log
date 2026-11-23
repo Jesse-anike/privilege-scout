@@ -1,0 +1,7 @@
+# PRIVILEGE SCOUT sample
+# This is an explanation file, not a live scan result.
+# Create a controlled test file with:
+#   mkdir -p lab
+#   touch lab/demo
+#   chmod 4755 lab/demo
+#   python main.py lab
